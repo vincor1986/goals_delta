@@ -22,7 +22,7 @@ Traders solved a similar problem decades ago with charting. Goals Δ borrows tha
 - **OHLC candlesticks** – familiar open-high-low-close candles applied to goals data
 - **Technical indicators** – including **RSI** and **MACD**
 - **Fibonacci and drawing overlay tools** – draw retracement levels directly on the chart
-- **Real-world data** – built on match data from [FootyStats](https://footystats.com)
+- **Real-world data** – built on match data from [FootyStats](https://footystats.org)
 
 ## Tech stack
 

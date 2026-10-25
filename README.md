@@ -57,7 +57,7 @@ npm start
 
 ## Data
 
-All data comes from [FootyStats](https://footystats.com) and is stored as a hard-coded dataset held in memory. This means:
+All data comes from [FootyStats](https://footystats.org) and is stored as a hard-coded dataset held in memory. This means:
 
 - No API keys or environment variables are needed to run the project
 - The app works offline once running
